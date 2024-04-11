@@ -1,5 +1,7 @@
 # -E-Commerce-Data-Analysis-Dashboard-Tableau
 # E-Commerce Analytics Dashboard
+![dashboard dark view](https://github.com/CodeNinjaSatyam/-E-Commerce-Data-Analysis-Dashboard-Tableau/assets/148047911/ddc13546-842c-44bf-bc08-43b5268128f2)
+
 
 Welcome to the E-Commerce Analytics Dashboard! This dynamic tool is meticulously crafted to unlock actionable insights from your e-commerce data, empowering strategic decision-making and business growth. Below, explore the comprehensive overview of the features and functionalities of this powerful dashboard.
 
